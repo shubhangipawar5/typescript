@@ -1,0 +1,17 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "main": "day1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shubhangi",
+  "license": "ISC",
+  "dependencies": {
+    "npx": "^10.2.2",
+    "typescript": "^4.7.4"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
